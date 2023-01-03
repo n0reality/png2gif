@@ -1,5 +1,10 @@
 # png2gif
+![image](https://github.com/n0reality/png2gif/blob/main/png_to_gif.gif)
 
-### Transform several static picture(png) into a moving gif
-### complete under the help of Lana Chen, special thanks for her instruction
-### https://github.com/k66inthesky
+
+## Desciption
+Turn several static pngs into a moving gif.
+
+## Thanks to
+[@k66inthesky](https://github.com/k66inthesky)
+
